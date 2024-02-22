@@ -1,0 +1,3 @@
+https://theodore-python-maps.replit.app/navigate
+
+https://theodore-python-maps.replit.app/navigate/land
